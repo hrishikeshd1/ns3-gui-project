@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+received_message.txt
+message_to_send.txt
